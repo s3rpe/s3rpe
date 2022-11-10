@@ -1,16 +1,19 @@
-### Hi there 👋
+# Welcome to my Profile! :-)
+### You can call me Francesco or Franco
 
-<!--
-**ls3rpe/ls3rpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Overview:
 
-Here are some ideas to get you started:
+>- Beginner to GitHub 🔰
+>- Slowly learning Python but I plan to increase my knowledge in the coming months 🖥️
+>- Aspiring to work in a digital security field or networking 🕵️
+>- Roman Catholic ✝️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Experience:
+
+> Programming a shitty discord bot
+
+<details>
+  <summary>Misc</summary>
+  
+  (I will probably change this as time goes on)
+  </details>
