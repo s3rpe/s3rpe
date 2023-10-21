@@ -1,5 +1,4 @@
 # Welcome to my Profile! :-)
-### You can call me Francesco or Franco
 
 #### Overview:
 
