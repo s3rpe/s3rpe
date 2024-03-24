@@ -1,11 +1,6 @@
-# Welcome to my Profile! :-)
-
 #### Overview:
 
->- Beginner to GitHub 🔰
->- Slowly learning Python but I plan to increase my knowledge in the coming months 🖥️
->- Aspiring to work in a digital security field or networking 🕵️
->- Roman Catholic ✝️
+larpGOD
 
 #### Experience:
 
