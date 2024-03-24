@@ -1,11 +1,11 @@
 #### About me:
 
-> larpGOD
-> Pvre Greco-Roman ancestry
+- larpGOD
+- Pvre Greco-Roman ancestry
 
 #### Experience:
 
-> Programming a shitty discord bot
+- Programming a shitty discord bot
 
 <details>
   <summary>Misc</summary>
