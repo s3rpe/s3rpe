@@ -1,6 +1,7 @@
-#### Overview:
+#### About me:
 
-larpGOD
+>larpGOD
+>Pvre Greco-Roman ancestry
 
 #### Experience:
 
